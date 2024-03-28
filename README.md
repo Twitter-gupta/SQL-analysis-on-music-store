@@ -15,32 +15,40 @@ track- track_id	name, album_id, media_type_id, genre_id,composer, milliseconds, 
 
 
 Tables schema
-"C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\star flake.png"
+<img width="505" alt="star flake" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/3e563d4c-9344-4907-8946-d1e4b8bba39d">
+
 
 1. Who is the senior most employee based on job title?
-   "C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\senior most employee based on job title.png"
+   <img width="715" alt="senior most employee based on job title" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/1ff862ff-13db-41f2-be9e-8a103848ac73">
+
 
 2. which countries have the most invoices?
-"C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\country- USA having the most invoices.png"
+<img width="269" alt="country- USA having the most invoices" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/c86c0877-d292-4cae-b10e-a9fcfb021439">
+
 
 3. what are top values of total invoice?
-"C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\top values of total invoice.png"
+<img width="733" alt="top values of total invoice" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/4add78fd-4ce5-42a4-91a1-fd9ed2e5b7ab">
+
 
 4. which city has best customer?
-   "C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\prague city has best customer.png"
+  <img width="374" alt="prague city has best customer" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/5a29714b-950e-48be-9c06-d79133393ebe">
+
 
 5. who is the customer_id made highest number of invoices ?
-   "C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\customer_id made highest number of invoices.png"
+   <img width="361" alt="customer_id made highest number of invoices" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/d3e469f0-3d2a-4784-9229-0e8470e2c793">
+
 
 6. Write query to return the email , first name, last name and genre of all rock music listeners .Return your list ordered alphabetically by email starting with A.
-   "C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\email , first name, last name and genre of all rock music.png"
+   <img width="375" alt="email , first name, last name and genre of all rock music" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/ae034fa5-436b-4d14-a7ba-f069aa5b7cd8">
+
 
 7. Let's invite the artist_ids who have written the most rock music in our dataset. 
 A query that returns the Artist id and total track count of the top  rock bands.
-"C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\artist_id who have written the most rock music.png"
+<img width="335" alt="artist_id who have written the most rock music" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/0aee27c1-552a-4dc1-9c83-1e3811582ea6">
+
 
 8.  Return all the track names that have a song length longer than the average song length. 
 Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
-"C:\Users\Divya\OneDrive\Documents\Music_store data\screenshot\song length longer than the average song length.png"
+<img width="335" alt="song length longer than the average song length" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/25bc5fac-4167-4e04-ac6d-16cc48ec0446">
 
 
