@@ -35,19 +35,20 @@ Tables schema
 
 
 5. who is the customer_id made highest number of invoices ?
+   
    <img width="361" alt="customer_id made highest number of invoices" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/d3e469f0-3d2a-4784-9229-0e8470e2c793">
 
 
-6. Write query to return the email , first name, last name and genre of all rock music listeners .Return your list ordered alphabetically by email starting with A.
+7. Write query to return the email , first name, last name and genre of all rock music listeners .Return your list ordered alphabetically by email starting with A.
    <img width="375" alt="email , first name, last name and genre of all rock music" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/ae034fa5-436b-4d14-a7ba-f069aa5b7cd8">
 
 
-7. Let's invite the artist_ids who have written the most rock music in our dataset. 
+8. Let's invite the artist_ids who have written the most rock music in our dataset. 
 A query that returns the Artist id and total track count of the top  rock bands.
 <img width="335" alt="artist_id who have written the most rock music" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/0aee27c1-552a-4dc1-9c83-1e3811582ea6">
 
 
-8.  Return all the track names that have a song length longer than the average song length. 
+9.  Return all the track names that have a song length longer than the average song length. 
 Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
 <img width="335" alt="song length longer than the average song length" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/25bc5fac-4167-4e04-ac6d-16cc48ec0446">
 
