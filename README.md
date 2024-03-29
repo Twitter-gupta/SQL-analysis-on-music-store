@@ -13,6 +13,7 @@ playlist- playlist_id, name
 playlist_track - playlist_id, track_id
 track- track_id	name, album_id, media_type_id, genre_id,composer, milliseconds, bytes, unit_price
 
+Analysed data using queries on several tables ,created table schema under lucid.app to have better understanding of relationship between tables .Used joins to join tables to another and grouping them .
 
 Tables schema
 <img width="505" alt="star flake" src="https://github.com/Twitter-gupta/SQL-analysis-on-music-store/assets/164379382/3e563d4c-9344-4907-8946-d1e4b8bba39d">
